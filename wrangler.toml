@@ -1,0 +1,3 @@
+name = "telegram-gemini-bot"
+main = "index.js"
+compatibility_date = "2025-09-21"
